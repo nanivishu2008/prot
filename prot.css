@@ -130,6 +130,10 @@
             margin-bottom: 1rem;
             color: var(--accent);
         }
+        .project-card a{
+            text-decoration: none;
+            color: var(--accent);
+        }
 
         /* Contact Section */
         .contact {
@@ -151,7 +155,4 @@
             header h1 { font-size: 2.5rem; }
             .nav-links { display: none; } /* Simplified for mobile */
         }
-        .project-card a{
-            text-decoration: none;
-            color: var(--accent);
-        }
+        
